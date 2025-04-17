@@ -32,4 +32,4 @@ Javascript, HTML, CSS...
 ## Used By
 
 This project is made for learning purpose not used by any compony.
-
+its just a noob project for practice 
